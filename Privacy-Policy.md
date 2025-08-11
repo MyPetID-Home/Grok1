@@ -1,0 +1,2 @@
+Privacy Policy
+MyPetID collects location data when you scan an NFC tag or access a pet profile to provide real-time tracking of your pet. This data is stored securely in MongoDB and associated with your account. We do not share your data with third parties except as required for Patreon tier verification or to fulfill NFC tag mailing. By using MyPetID, you consent to this data collection. Contact us at support@mypetid.com for questions.
